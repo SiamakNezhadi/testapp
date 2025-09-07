@@ -1,0 +1,16 @@
+{
+  "name": "azure-express-demo",
+  "version": "1.0.0",
+  "description": "Small Express app for Dynatrace demo on Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
